@@ -1,0 +1,20 @@
+{
+  "name": "flamingo",
+  "version": "1.0.0",
+  "description": "Flamingos love to group together and live, which means sharing with each other. This matches the goal of this library: to serve as the central places of shared components used in projects.thedp.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailypenn/flamingo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailypenn/flamingo/issues"
+  },
+  "homepage": "https://github.com/dailypenn/flamingo#readme"
+}
